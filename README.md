@@ -1,2 +1,4 @@
 # scrimba-airbnb-experiences
- learning react
+
+learning react
+airbnb static experiences page
